@@ -1,0 +1,5 @@
+.env
+/venv/
+*.json
+*.pyc
+.DS_Store
